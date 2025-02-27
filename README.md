@@ -1,1 +1,1 @@
-Code associed with McNally at al. (2025) to analyze calcium imaging data
+Code associed with McNally et al. (2025) to analyze calcium imaging data
